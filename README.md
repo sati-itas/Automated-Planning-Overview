@@ -16,7 +16,7 @@ And some interesting sources and literature.
 ## MDPs
 - [Markov Decision Process (MDP) Toolbox for Python](https://github.com/sawcordwell/pymdptoolbox)
 
-#Literature
+# Literature
 
 - [Automated Planning - theory and practice](http://projects.laas.fr/planning/aptp/index.html) by M. Ghallab, D. Nau, and P. Traverso
 - [Automated Planning and Acting](http://projects.laas.fr/planning/) by M. Ghallab, D. Nau, and P. Traverso
