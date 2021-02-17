@@ -8,6 +8,7 @@ And some interesting sources and literature.
 - [Automated Planning @PUCRS](https://github.com/pucrs-automated-planning/pddl-parser)
 
 - [pddl-lib](https://pypi.org/project/pddlpy/)
+- [Linked Planning Domain Definition Language](https://github.com/IBM/PDDLS) linking semantics with PDDL ([Paper](https://arxiv.org/pdf/1912.07834.pdf))
 
 # planners
 ## state-space or plan-space planner
