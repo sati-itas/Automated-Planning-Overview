@@ -2,7 +2,7 @@
 This repository provides a (small) overview of different planning domain modeling languages and planners that are related to Python.
 And some interesting sources and literature.
 
-# planning domain modeling languages
+# Planning domain modeling languages
 ## PDDL (Planning Domain Definition Language)
 ### Parser
 - [Automated Planning @PUCRS](https://github.com/pucrs-automated-planning/pddl-parser)
@@ -10,7 +10,7 @@ And some interesting sources and literature.
 - [pddl-lib](https://pypi.org/project/pddlpy/)
 - [Linked Planning Domain Definition Language](https://github.com/IBM/PDDLS) linking semantics with PDDL ([Paper](https://arxiv.org/pdf/1912.07834.pdf))
 
-# planners
+# Planner
 ## state-space or plan-space planner
 - [pddlstream](https://github.com/caelan/pddlstream)
 
