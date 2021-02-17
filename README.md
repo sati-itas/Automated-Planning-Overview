@@ -12,6 +12,7 @@ And some interesting sources and literature.
 
 # Planner
 ## state-space or plan-space planner
+- [The Fast Downward domain-independent classical planning system](https://github.com/aibasel/downward) by Artificial Intelligence Group - University of Basel
 - [pddlstream](https://github.com/caelan/pddlstream)
 
 ## MDPs
