@@ -20,3 +20,5 @@ And some interesting sources and literature.
 
 - [Automated Planning - theory and practice](http://projects.laas.fr/planning/aptp/index.html) by M. Ghallab, D. Nau, and P. Traverso
 - [Automated Planning and Acting](http://projects.laas.fr/planning/) by M. Ghallab, D. Nau, and P. Traverso
+
+- What ist [PDDL](http://users.cecs.anu.edu.au/~patrik/pddlman/writing.html)?
