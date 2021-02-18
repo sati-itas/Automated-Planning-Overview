@@ -25,3 +25,4 @@ And some interesting sources and literature.
 - [Automated Planning and Acting](http://projects.laas.fr/planning/) by M. Ghallab, D. Nau, and P. Traverso
 
 - What ist [PDDL](http://users.cecs.anu.edu.au/~patrik/pddlman/writing.html)?
+- A planning [wiki](https://planning.wiki)
