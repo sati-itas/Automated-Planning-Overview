@@ -7,8 +7,9 @@ And some interesting sources and literature.
 ### Parser
 - [Automated Planning @PUCRS](https://github.com/pucrs-automated-planning/pddl-parser)
 
-- [pddl-lib](https://pypi.org/project/pddlpy/)
+- [pddl-lib](https://pypi.org/project/pddlpy/) parse a pddl domain and problem description to python objects
 - [Linked Planning Domain Definition Language](https://github.com/IBM/PDDLS) linking semantics with PDDL ([Paper](https://arxiv.org/pdf/1912.07834.pdf))
+- [py2pddl](https://github.com/remykarem/py2pddl) parse python objects to pddl description
 
 # Planner
 ## state-space or plan-space planner
