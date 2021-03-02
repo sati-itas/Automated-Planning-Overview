@@ -15,6 +15,7 @@ And some interesting sources and literature.
 ## state-space or plan-space planner
 - [The Fast Downward domain-independent classical planning system](https://github.com/aibasel/downward) by Artificial Intelligence Group - University of Basel
 - [pddlstream](https://github.com/caelan/pddlstream)
+- [simpleAI](https://github.com/simpleai-team/simpleai)
 
 ## MDPs
 - [Markov Decision Process (MDP) Toolbox for Python](https://github.com/sawcordwell/pymdptoolbox)
