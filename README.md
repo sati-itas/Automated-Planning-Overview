@@ -16,6 +16,8 @@ And some interesting sources and literature.
 - [The Fast Downward domain-independent classical planning system](https://github.com/aibasel/downward) by Artificial Intelligence Group - University of Basel
 - [pddlstream](https://github.com/caelan/pddlstream)
 - [simpleAI](https://github.com/simpleai-team/simpleai)
+## temporal planning problems
+- [Algorithms for solving temporal planning problems](https://github.com/aig-upf/temporal-planning)
 
 ## MDPs
 - [Markov Decision Process (MDP) Toolbox for Python](https://github.com/sawcordwell/pymdptoolbox)
